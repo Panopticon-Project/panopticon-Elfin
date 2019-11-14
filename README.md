@@ -10,3 +10,5 @@ https://www.securityweek.com/iran-linked-cyberspy-group-apt33-continues-attacks-
 https://www.securityweek.com/iranian-cyberspies-update-infrastructure-following-recent-report
 
 https://hyas.com/news/hunting-apt33-campaign-infrastructure/
+
+https://blog.trendmicro.com/trendlabs-security-intelligence/more-than-a-dozen-obfuscated-apt33-botnets-used-for-extreme-narrow-targeting/
