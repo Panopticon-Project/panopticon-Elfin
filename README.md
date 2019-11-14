@@ -12,3 +12,5 @@ https://www.securityweek.com/iranian-cyberspies-update-infrastructure-following-
 https://hyas.com/news/hunting-apt33-campaign-infrastructure/
 
 https://blog.trendmicro.com/trendlabs-security-intelligence/more-than-a-dozen-obfuscated-apt33-botnets-used-for-extreme-narrow-targeting/
+
+https://sensorstechforum.com/apt33-is-using-own-vpn-network/
