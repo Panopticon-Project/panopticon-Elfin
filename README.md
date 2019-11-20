@@ -14,3 +14,5 @@ https://hyas.com/news/hunting-apt33-campaign-infrastructure/
 https://blog.trendmicro.com/trendlabs-security-intelligence/more-than-a-dozen-obfuscated-apt33-botnets-used-for-extreme-narrow-targeting/
 
 https://sensorstechforum.com/apt33-is-using-own-vpn-network/
+
+https://www.wired.com/story/iran-apt33-industrial-control-systems/
