@@ -16,3 +16,5 @@ https://blog.trendmicro.com/trendlabs-security-intelligence/more-than-a-dozen-ob
 https://sensorstechforum.com/apt33-is-using-own-vpn-network/
 
 https://www.wired.com/story/iran-apt33-industrial-control-systems/
+
+https://nakedsecurity.sophos.com/2019/11/22/irans-apt33-sharpens-focus-on-industrial-control-systems/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nakedsecurity+%28Naked+Security+-+Sophos%29
