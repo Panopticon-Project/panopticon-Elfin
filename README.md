@@ -20,3 +20,5 @@ https://www.wired.com/story/iran-apt33-industrial-control-systems/
 https://nakedsecurity.sophos.com/2019/11/22/irans-apt33-sharpens-focus-on-industrial-control-systems/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nakedsecurity+%28Naked+Security+-+Sophos%29
 
 https://www.securityweek.com/iran-linked-zerocleare-wiper-targets-energy-industrial-sectors-middle-east
+
+https://blog.trendmicro.com/trendlabs-security-intelligence/more-than-a-dozen-obfuscated-apt33-botnets-used-for-extreme-narrow-targeting/
