@@ -24,3 +24,5 @@ https://www.securityweek.com/iran-linked-zerocleare-wiper-targets-energy-industr
 https://blog.trendmicro.com/trendlabs-security-intelligence/more-than-a-dozen-obfuscated-apt33-botnets-used-for-extreme-narrow-targeting/
 
 https://threatpost.com/oil-and-gas-specialist-apt-pivots-to-u-s-power-plants/151699/
+
+https://www.recordedfuture.com/pupyrat-malware-analysis/
