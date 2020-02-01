@@ -28,3 +28,5 @@ https://threatpost.com/oil-and-gas-specialist-apt-pivots-to-u-s-power-plants/151
 https://www.recordedfuture.com/pupyrat-malware-analysis/
 
 https://www.cyberscoop.com/apt33-microsoft-iran-ics/
+
+https://www.itsecuritynews.info/insights-into-iranian-cyber-espionage-apt33-targets-aerospace-andenergy-sectors-and-has-ties-to-destructive-malware-13/
