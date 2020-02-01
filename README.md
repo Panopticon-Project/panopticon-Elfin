@@ -26,3 +26,5 @@ https://blog.trendmicro.com/trendlabs-security-intelligence/more-than-a-dozen-ob
 https://threatpost.com/oil-and-gas-specialist-apt-pivots-to-u-s-power-plants/151699/
 
 https://www.recordedfuture.com/pupyrat-malware-analysis/
+
+https://www.cyberscoop.com/apt33-microsoft-iran-ics/
