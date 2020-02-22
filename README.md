@@ -32,3 +32,5 @@ https://www.cyberscoop.com/apt33-microsoft-iran-ics/
 https://www.itsecuritynews.info/insights-into-iranian-cyber-espionage-apt33-targets-aerospace-andenergy-sectors-and-has-ties-to-destructive-malware-13/
 
 https://www.securityweek.com/iranian-hackers-exploited-enterprise-vpn-flaws-major-campaign
+
+https://www.wired.com/story/iran-apt33-us-electric-grid
