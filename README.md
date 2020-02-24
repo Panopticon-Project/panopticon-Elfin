@@ -34,3 +34,5 @@ https://www.itsecuritynews.info/insights-into-iranian-cyber-espionage-apt33-targ
 https://www.securityweek.com/iranian-hackers-exploited-enterprise-vpn-flaws-major-campaign
 
 https://www.wired.com/story/iran-apt33-us-electric-grid
+
+https://blog.telsy.com/meeting-powerband-the-apt33-net-powerton-variant/
